@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as n,a as t}from"./app.456d1034.js";const K=JSON.parse('{"title":"什么是Kotlin？","description":"","frontmatter":{},"headers":[],"relativePath":"intro/index.md"}'),a={name:"intro/index.md"},e=t("",10),o=[e];function r(d,h,s,c,_,u){return n(),l("div",null,o)}const f=i(a,[["render",r]]);export{K as __pageData,f as default};

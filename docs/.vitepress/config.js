@@ -4,7 +4,7 @@ module.exports = {
     lang: 'zh-CN',
     head: [['link', { rel: 'icon', type: 'image/svg+xml', href: 'kug.png' }]],
     themeConfig: {
-        logo: { src: '/public/kug.png', width: 24, height: 24 },
+        logo: { src: 'kug.png', width: 24, height: 24 },
         repo: 'jinan-kug/.github',
         repoLabel: 'GitHub',
         docsDir: 'docs',

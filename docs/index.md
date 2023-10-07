@@ -9,7 +9,7 @@ hero:
   text: 一个聚集Kotlin开发者和爱好者的社区
   tagline: Hi ✋，这里是济南 Kotlin 用户组，欢迎所有对 Kotlin 感兴趣的开发者加入用户组
   image:
-    src: ./public/kug.png
+    src: kug.png
     alt: VitePress
   actions:
     - theme: brand
@@ -61,12 +61,3 @@ features:
   }
 }
 </style>
-
-[//]: # (# Jinan Kotlin User Group)
-
-[//]: # (Hi :hand:，这里是济南 Kotlin 用户组，欢迎所有对 Kotlin 感兴趣的开发者加入用户组)
-
-[//]: # ()
-[//]: # (- 在这里可以和其它成员一起讨论 Kotlin 语言的各项技术与最新特性)
-
-[//]: # (- 我们还会不定期举行分享会，进行与 Kotlin 相关的主题分享与讨论)

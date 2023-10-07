@@ -9,7 +9,7 @@ hero:
   text: 一个聚集Kotlin开发者和爱好者的社区
   tagline: Hi ✋，这里是济南 Kotlin 用户组，欢迎所有对 Kotlin 感兴趣的开发者加入用户组
   image:
-    src: /public/kug.png
+    src: ./public/kug.png
     alt: VitePress
   actions:
     - theme: brand

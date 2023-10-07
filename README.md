@@ -28,3 +28,5 @@
 1. 所有要编辑的Markdown都在main分支的docs目录下，配置文件在docs/.vitepress/config.js，打包后的文件在docs/.vitepress/dist目录下，可以先本地测试
 2. 所有能用到的基本都在docs目录下，你可以编写Markdown或HTML文件，按照你的习惯创建目录，也可以将目录规范，编写好后只需要在配置文件中添加配置即可，一般来说只需要变动themeConfig.siderbar配置项，具体的配置项可参照VitePress文档，或与我讨论
 3. 你可以编写HTML、Markdown或在Markdown文件中放入你的文章链接
+
+t
